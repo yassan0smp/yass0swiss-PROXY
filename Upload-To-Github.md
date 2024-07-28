@@ -26,7 +26,7 @@ YOU NEED TO DO THE BELOW PROCESS ONLY ONE TIME, ALSO MAKE SURE TO SAVE THE GENER
 ```bash
 git remote add origin https://YOUR_GITHUB_USERNAME:ACCESS_TOKEN@REPO_LINK_BEGIN_WITHOUT_HTTPS_AND_END_WITH_.git
 ```
-- Example : `https://dxzenith:ghp_9MTyjo33qcebDGPrLvpntALJ6wLgYv3Vow6U@github.com/dxzenith/Swisstronik-Testnet.git`
+- Example : `https://yassan0smp:ghp_9MTyjo33qcebDGPrLvpntALJ6wLgYv3Vow6U@github.com/yassan0smp/Swisstronik-Testnet.git`
 ```bash
 git branch -M main
 ```

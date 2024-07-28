@@ -39,4 +39,4 @@ The `proxy.sh` script performs the following actions:
 11. Runs the scripts to set and get the message.
 
 ## Done!
-Follow [this guide] () to upload these files in your github repository
+- Now visit : [Click Here](https://github.com/yassan0smp/yass0swiss-PROXY/blob/main/Upload-To-Github.md) to upload these codes in your github repository

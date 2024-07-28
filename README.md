@@ -6,8 +6,8 @@ Node.js (v14.x or later)
 npm (v6.x or later)
 Installation
 Clone the repository:
-git clone https://github.com/dante4rt/swisstronik-deploy-proxy.git
-cd swisstronik-deploy-proxy
+git clone https://github.com/yassan0smp/yass0swiss-PROXY.git
+cd yass0swiss-PROXY
 Run the setup script:
 chmod +x proxy.sh && ./proxy.sh
 Setup Script Details

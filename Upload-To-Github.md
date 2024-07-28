@@ -28,6 +28,9 @@ git remote add origin https://YOUR_GITHUB_USERNAME:ACCESS_TOKEN@REPO_LINK_BEGIN_
 ```
 - Example : `https://yassan0smp:ghp_9MTyjo33qcebDGPrLvpntALJ6wLgYv3Vow6U@github.com/yassan0smp/Swisstronik-Testnet.git`
 ```bash
+git remote set-url origin https://YOUR_GITHUB_USERNAME:ACCESS_TOKEN@REPO_LINK_BEGIN_WITHOUT_HTTPS_AND_END_WITH_.git
+```
+```bash
 git branch -M main
 ```
 ```bash

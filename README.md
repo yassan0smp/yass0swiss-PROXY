@@ -39,5 +39,4 @@ The `proxy.sh` script performs the following actions:
 11. Runs the scripts to set and get the message.
 
 ## Done!
-
-Enjoy working with Swisstronik and be sure to subscribe to [Happy Cuan Airdrop](https://t.me/HappyCuanAirdrop)!
+Follow [this guide] () to upload these files in your github repository
